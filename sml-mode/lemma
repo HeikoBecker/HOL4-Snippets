@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: Lemma HOl4
+# key: lemma
+# expand-env: ((yas-indent-line 'fixed))
+# --
+val $1 = store_thm ("$1",
+  \`\`$2\`\`,
+  $0
+);
