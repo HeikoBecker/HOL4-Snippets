@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
-# name: Lemma HOl4
-# key: lemma
+# name: Lemma statement in HOl4
+# key: Lemma
 # expand-env: ((yas-indent-line 'fixed))
 # --
 val $1 = store_thm ("$1",
