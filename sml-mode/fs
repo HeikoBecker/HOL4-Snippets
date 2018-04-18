@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: Simplify with given theorem list
+# key: fs
+# expand-env: ((yas-indent-line 'fixed))
+# --
+fs [${1:theorem list}] $0

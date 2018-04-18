@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: Create a new subgoal
+# key: subgoal
+# expand-env: ((yas-indent-line 'fixed))
+# --
+\`${1:subgoal}\`
+by ($0)
