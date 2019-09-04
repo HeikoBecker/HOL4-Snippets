@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: Datatype defintion in HOl4
+# key: Datatype
+# expand-env: ((yas-indent-line 'fixed))
+# --
+Datatype: $0
+End
