@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
 # name: Resolve an implication theorem with assumptions
-# key: IMP_RES_TAC
+# key: imp_res_tac
 # expand-env: ((yas-indent-line 'fixed))
 # --
-IMP_RES_TAC ${1:implication theorem}
+imp_res_tac ${1:implication theorem}
