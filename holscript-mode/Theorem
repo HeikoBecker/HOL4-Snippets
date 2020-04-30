@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-# name: Theorem statement in HOl4
+# name: Theorem statement in HOL4
 # key: Theorem
 # expand-env: ((yas-indent-line 'fixed))
 # --
